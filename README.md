@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 This is an Interactive Rock Paper Scissors Webapp
-##Construction
+## Construction
 Made with Pure JS
